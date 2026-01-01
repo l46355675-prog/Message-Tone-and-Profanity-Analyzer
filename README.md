@@ -35,3 +35,4 @@ pkg install openjdk-17
 cd ~/storage/downloads```
 if its your first time accessing storage run ```termux-setup-storage``` then repeat the ```cd ~/storage/downloads``` then tyoe the following commands ```javac TextAnalyzer.java
 java TextAnalyzer```
+Download now -> [ https://payhip.com/b/zbu6R ]
